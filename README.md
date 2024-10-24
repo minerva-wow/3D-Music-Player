@@ -229,8 +229,8 @@ npm run test:coverage
 
 ## 关于作者
 
-- GitHub: https://github.com/minerva-wow
-- Email: andrea.b1062@gmail.com
+- blog: https://minerva-wow.github.io/
+
 
 ## 常见问题
 
