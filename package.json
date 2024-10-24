@@ -1,0 +1,37 @@
+{
+  "name": "3d-music-player",
+  "version": "1.0.0",
+  "description": "一个使用原生JavaScript开发的支持3D音频的Web音乐播放器。",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "start": "webpack serve --open",
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.25.9",
+    "@babel/preset-env": "^7.25.9",
+    "babel-loader": "^9.2.1",
+    "css-loader": "^7.1.2",
+    "eslint": "^9.13.0",
+    "file-loader": "^6.2.0",
+    "html-webpack-plugin": "^5.6.3",
+    "jest": "^29.7.0",
+    "prettier": "^3.3.3",
+    "style-loader": "^4.0.0",
+    "webpack": "^5.95.0",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^5.1.0"
+  },
+  "dependencies": {
+    "glob": "^11.0.0",
+    "lru-cache": "^11.0.1"
+  }
+}
