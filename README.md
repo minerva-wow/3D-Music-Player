@@ -227,14 +227,6 @@ npm test -- --grep "test name"
 npm run test:coverage
 ```
 
-## 贡献指南
-
-欢迎贡献代码！请查看 [CONTRIBUTING.md](CONTRIBUTING.md) 了解详细信息。
-
-## 许可证
-
-本项目采用 MIT 许可证。详见 [LICENSE](LICENSE) 文件。
-
 ## 关于作者
 
 - GitHub: https://github.com/minerva-wow
